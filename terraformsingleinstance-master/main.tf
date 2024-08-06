@@ -61,6 +61,8 @@ resource "aws_subnet" "subnet3-public" {
         Name = "${var.public_subnet3_name}"
     }
 	
+
+    fjiihuihfuihfu
 }
 
 
